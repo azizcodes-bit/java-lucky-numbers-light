@@ -1,0 +1,19 @@
+Herzlich Willkommen zu Lucky Numbers Light
+Lucky Numbers Light
+1 - Spiel starten
+2 - Programm beenden
+Gib den Namen von Spieler 1 ein:
+Gib den Namen von Spieler 2 ein:
+Wie gross soll das Spielfeld sein?
+--------------------------------
+Aziz ist an der Reihe.
+Spielfeld von Aziz:
+        0   1
+----+--------
+  0 |   -   -
+  1 |   -   -
+
+Gezogene Zahl :1
+Anzahl uebrige Zahlen im Stapel: 11
+Moechtest du die Zahl verwenden j/ja/n/nein)?
+Die Zahl 1 wurde verworfen.
